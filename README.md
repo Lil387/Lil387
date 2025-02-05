@@ -1,7 +1,9 @@
 <!DOCTYPEhtml>
 <html>
 Hi there 👋
-<ul> I'm currently working on something cool
-I'm learning about GitHub
-Fun fact I am a Star Wars fan </ul>
+<ul> 
+  <li>I'm currently working on something cool</li>
+  <li>I'm learning about GitHub</li>
+  <li>Fun fact I am a Star Wars fan</li>
+</ul>
 </html>
